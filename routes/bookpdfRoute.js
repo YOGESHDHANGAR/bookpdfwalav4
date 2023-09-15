@@ -3,7 +3,7 @@ const {
   getAllBookpdf,
   createBookpdf,
   getSingleBookpdf,
-} = require("../controllers/bookPdfController");
+} = require("../controllers/bookpdfController");
 
 const router = express.Router();
 
